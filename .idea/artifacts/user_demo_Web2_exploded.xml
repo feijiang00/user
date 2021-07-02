@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="user_demo:Web2 exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/user_demo_Web2_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="user_demo/web/Web2" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="user_demo" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="lib (2)" />
+          <element id="library" level="project" name="lib" />
+          <element id="library" level="project" name="lib1" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
